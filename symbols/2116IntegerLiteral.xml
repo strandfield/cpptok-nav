@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><syminfo><def f="include/cpptok/token.h" l="51" c="5"/><use f="src/tokenizer.cpp" l="329" c="31"/><use f="src/tokenizer.cpp" l="406" c="29"/><use f="src/tokenizer.cpp" l="456" c="68"/><use f="tests/tests.cpp" l="61" c="56"/><use f="tests/tests.cpp" l="61" c="56"/><use f="tests/tests.cpp" l="61" c="56"/></syminfo>
